@@ -55,7 +55,7 @@ Result: 4 distinct customer segments visualized via PCA
 
 Models Used: Logistic Regression
 
-Random Forest (Best: 85% Accuracy)
+Random Forest (Best: 91.97% Accuracy)
 
 Gradient Boosting, SVM, KNN, Naive Bayes, MLP
 
@@ -101,7 +101,7 @@ Power BI visuals were exported using `Power BI Publish to Web` and embedded in J
 
 | Model               | Accuracy | Use Case                          |
 | ------------------- | -------- | --------------------------------- |
-| ✨ Random Forest     | **91.96%**  | Best overall performance          |
+| ✨ Random Forest     | **91.97%**  | Best overall performance          |
 | Gradient Boosting   | 83%      | Excellent but more complex        |
 | Logistic Regression | 76%      | Fast, interpretable baseline      |
 | MLP Neural Network  | 80%      | Deep learning approach            |
