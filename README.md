@@ -127,7 +127,7 @@ Power BI visuals were exported using `Power BI Publish to Web` and embedded in J
 # 🚀 How to Run
 
  **Clone repository** 
-git clone https://github.com/your-username/credit-risk-capstone.git
+git clone https://github.com/Adeena1234/EntriRepo/blob/main/Final_Project_Test.ipynb
 
 **Open in Jupyter**
 jupyter notebook
