@@ -96,7 +96,16 @@ Built visuals:
 
 Power BI visuals were exported using `Power BI Publish to Web` and embedded in Jupyter Notebook via `IFrame`.
 
----
+
+# 🚀 How to Run
+
+# Clone repository 
+git clone https://github.com/your-username/credit-risk-capstone.git
+
+# Open in Jupyter
+jupyter notebook
+
+# 📊 Results
 
 # 🚀 How to Run
 ```bash
