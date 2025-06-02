@@ -97,26 +97,6 @@ Built visuals:
 Power BI visuals were exported using `Power BI Publish to Web` and embedded in Jupyter Notebook via `IFrame`.
 
 
-# 🚀 How to Run
-
-# Clone repository 
-git clone https://github.com/your-username/credit-risk-capstone.git
-
-# Open in Jupyter
-jupyter notebook
-
-# 📊 Results
-
-# 🚀 How to Run
-```bash
-
-# Clone repository
-git clone https://github.com/your-username/credit-risk-capstone.git
-
-# Open in Jupyter
-jupyter notebook
-
-
 # 📊 Results
 
 | Model               | Accuracy | Use Case                          |
@@ -129,15 +109,12 @@ jupyter notebook
 | KNN                 | 73%      | Simple, lower accuracy            |
 | Naive Bayes         | 68%      | Fast, less effective on this data |
 
----
 
 # 📊 Business Insights
 
 **High Income != Low Risk**: Some high-income customers still default.
 **Segment Targeting**: Certain customer clusters show higher default rates.
 **Time Trends**: Default rates vary seasonally; predictive insights help in planning.
-
----
 
 # ✨ Key Features
 
@@ -146,14 +123,17 @@ jupyter notebook
 * BI Dashboard for Non-Technical Users
 * Clear code documentation and export paths
 
----
 
+# 🚀 How to Run
 
+ **Clone repository** 
+git clone https://github.com/your-username/credit-risk-capstone.git
 
----
+**Open in Jupyter**
+jupyter notebook
+
 
 # 📢 Conclusion
 
 This project blends machine learning with business intelligence to support credit decision-makers. Whether you're a data scientist or business analyst, the integrated pipeline from raw data to actionable insight makes this project both valuable and practical.
 
----
