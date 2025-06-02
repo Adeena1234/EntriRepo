@@ -101,7 +101,7 @@ Power BI visuals were exported using `Power BI Publish to Web` and embedded in J
 
 | Model               | Accuracy | Use Case                          |
 | ------------------- | -------- | --------------------------------- |
-| ✨ Random Forest     | **85%**  | Best overall performance          |
+| ✨ Random Forest     | **91.96%**  | Best overall performance          |
 | Gradient Boosting   | 83%      | Excellent but more complex        |
 | Logistic Regression | 76%      | Fast, interpretable baseline      |
 | MLP Neural Network  | 80%      | Deep learning approach            |
@@ -135,5 +135,15 @@ jupyter notebook
 
 # 📢 Conclusion
 
-This project blends machine learning with business intelligence to support credit decision-makers. Whether you're a data scientist or business analyst, the integrated pipeline from raw data to actionable insight makes this project both valuable and practical.
 
+This capstone project successfully demonstrates the integration of machine learning and business intelligence to address critical challenges in the finance domain. By combining credit risk prediction, customer segmentation, and default rate forecasting, the project enables financial institutions to:
+
+Identify high-risk customers using accurate predictive models like Random Forest.
+
+Segment customers based on financial behavior using K-Means Clustering.
+
+Forecast potential default rates for better risk management.
+
+Visualize actionable insights using Power BI, helping stakeholders make informed, data-driven decisions.
+
+This end-to-end pipeline highlights the power of combining supervised and unsupervised learning with BI tools, making it a valuable reference for real-world financial analytics and credit scoring systems.
